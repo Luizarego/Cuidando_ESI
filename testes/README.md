@@ -1,18 +1,32 @@
-Instruções para a execução dos testes:
+# Instruções para a execução dos testes:
 
-Pré-requisitos:
+## Pré-requisitos:
 
 -Ruby (v3.3.5)
 
--Bundler (_gem install bundler_)
+-Bundler
+```
+gem install bundler
+```
 
--rspec (_gem install rspec_)
+-rspec 
+```
+gem install rspec
+```
 
+## Execução:
 
-Execução:
+-Baixar este diretório. É possível clonar o repositório de forma não recursiva para que o conteúdo dos submódulos não seja baixado e o download fique mais leve 
+```
+git clone https://github.com/Luizarego/Cuidando_ESI/
+```
 
--Baixar este diretório. É possível clonar o repositório de forma não recursiva para que o conteúdo dos submódulos não seja baixado e o download fique mais leve (_git clone https://github.com/Luizarego/Cuidando_ESI/_) .
+-Abrir o terminal neste diretório e baixar os requisitos descritos no arquivo Gemfile com o seguinte comando:
+```
+bundle install
+```
 
--Abrir o terminal neste diretório e executar _bundle install_ para baixar os requisitos descritos no arquivo Gemfile.
-
--Executar o comando _cucumber_.
+-Executar o seguinte comando:
+```
+cucumber
+```
