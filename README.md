@@ -1,14 +1,19 @@
-"# Cuidando_ESI" 
+# Cuidando_ESI 
 
-Integrantes do projeto:
+## Integrantes do projeto:
 - Larissa Terto Alvim -	13671765
 - Livia Vanessa Carlini Martins -	13671601
 - Luiza Silva e Rego - 13831697
 - Rafaela Elache Maciel -	13838666
 - Ezequiel Park - 5172519
 
-#CodeClimate badge: [![Maintainability](https://api.codeclimate.com/v1/badges/bbe2736330a7c06d6c66/maintainability)](https://codeclimate.com/github/LarissaTerto/website-vuejs/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/bbe2736330a7c06d6c66/test_coverage)](https://codeclimate.com/github/LarissaTerto/website-vuejs/test_coverage)
+## CodeClimate badge: 
+[![Maintainability](https://api.codeclimate.com/v1/badges/bbe2736330a7c06d6c66/maintainability)](https://codeclimate.com/github/LarissaTerto/website-vuejs/maintainability) 
+[![Test Coverage](https://api.codeclimate.com/v1/badges/bbe2736330a7c06d6c66/test_coverage)](https://codeclimate.com/github/LarissaTerto/website-vuejs/test_coverage)
 
-#GitHub Actions badge: [![CI](https://github.com/LarissaTerto/website-vuejs/actions/workflows/main.yml/badge.svg)](https://github.com/LarissaTerto/website-vuejs/actions/workflows/main.yml)
+## GitHub Actions badge: 
+[![CI](https://github.com/LarissaTerto/website-vuejs/actions/workflows/main.yml/badge.svg)](https://github.com/LarissaTerto/website-vuejs/actions/workflows/main.yml)
 
-#Instruções para executar testes Cucumber: https://github.com/Luizarego/Cuidando_ESI/blob/main/testes/README.md
+## Instruções para executar testes de aceitação: https://github.com/Luizarego/Cuidando_ESI/blob/main/testes/README.md
+
+## Instruções para executar testes de caracterização: https://github.com/LarissaTerto/website-vuejs/blob/main/tests/README.md
