@@ -21,7 +21,7 @@ gem install rspec
 git clone https://github.com/Luizarego/Cuidando_ESI/
 ```
 
--Abrir o terminal neste diretório e baixar os requisitos descritos no arquivo Gemfile com o seguinte comando:
+-Abrir o terminal neste diretório (testes) e baixar os requisitos descritos no arquivo Gemfile com o seguinte comando:
 ```
 bundle install
 ```
