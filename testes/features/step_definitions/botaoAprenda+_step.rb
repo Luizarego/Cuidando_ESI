@@ -1,6 +1,6 @@
 #language: pt
 Dado('que estou na home do site "Cuidando do Meu Bairro"') do
-  visit 'https://cuidando.vc/2022/1' 
+  visit '/' 
 end
 
 Quando('clico em "Aprenda+"') do
