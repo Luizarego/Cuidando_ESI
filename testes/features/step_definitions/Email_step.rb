@@ -15,5 +15,5 @@ When('clico no botão {string}') do |link_text|
 end
 
 Then('devo ser redirecionado para a página de envio para o e-mail ola@cuidando.vc') do
-  assert_current_path('-')
+  assert_current_path('mailto:ola@cuidando.vc')
 end
