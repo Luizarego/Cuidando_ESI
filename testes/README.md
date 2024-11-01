@@ -1,4 +1,4 @@
-# Instruções para a execução dos testes:
+# Instruções para a execução dos testes Cucumber:
 
 ## Pré-requisitos:
 
