@@ -1,7 +1,3 @@
-[submodule "website-vuejs"]
-	path = website-vuejs
-	url = https://github.com/LarissaTerto/website-vuejs
-	branch = main
 [submodule "viralata"]
 	path = viralata
 	url = https://github.com/LarissaTerto/viralata
