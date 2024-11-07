@@ -1,6 +1,6 @@
 [submodule "website-vuejs"]
 	path = website-vuejs
-	url = https://github.com/LarissaTerto/website-vuejs
+	url = https://github.com/LarissaTerto/website-vuejs/tree/main
 [submodule "viralata"]
 	path = viralata
 	url = https://github.com/LarissaTerto/viralata
